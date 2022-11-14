@@ -1,6 +1,10 @@
-***********************************************
-***********************************************
-***********************************************
-***********************************************
-***********************************************
-***********************************************
+ERROR - Aktive Zeichnung, linenum 59:  Keyword 'REF_DES_DISPLAY' is not valid.
+ERROR - Aktive Zeichnung, linenum 60:  Keyword 'SHOW_SYM_OF_SUPPRESSED_WELD' is not valid.
+ERROR - Aktive Zeichnung, linenum 120:  Keyword 'ASME_DTM_ON_DIA_DIM_GTOL' is not valid.
+ERROR - Aktive Zeichnung, linenum 121:  Keyword 'GTOL_DATUM_PLACEMENT_DEFAULT' is not valid.
+ERROR - Aktive Zeichnung, linenum 124:  Keyword 'GTOL_DISPLAY_STYLE' is not valid.
+ERROR - Aktive Zeichnung, linenum 59:  Keyword 'REF_DES_DISPLAY' is not valid.
+ERROR - Aktive Zeichnung, linenum 60:  Keyword 'SHOW_SYM_OF_SUPPRESSED_WELD' is not valid.
+ERROR - Aktive Zeichnung, linenum 120:  Keyword 'ASME_DTM_ON_DIA_DIM_GTOL' is not valid.
+ERROR - Aktive Zeichnung, linenum 121:  Keyword 'GTOL_DATUM_PLACEMENT_DEFAULT' is not valid.
+ERROR - Aktive Zeichnung, linenum 124:  Keyword 'GTOL_DISPLAY_STYLE' is not valid.
