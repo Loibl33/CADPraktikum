@@ -1,3 +1,4 @@
-generate UI traceback and exit
-Generating automatic traceback in C:\Users\Public\Documents\traceback.log...
-Automatic traceback done.
+WdgMtb: ACCESS SldSrf@HLSWP is AVAILABLE (CB)
+WdgMtb: ACCESS HlswpRmvMat@FEATMENU@HLSWP is invisible (UI)
+WdgMtb: ACCESS HlswpThinChk@FEATMENU@HLSWP is AVAILABLE (CB)
+WdgMtb: ACCESS Hand_opt_RG@HLSWP is AVAILABLE (CB)
